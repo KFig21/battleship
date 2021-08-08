@@ -1,6 +1,8 @@
 # Battleship
 
-- Made for The Odin Project curriculum
+
+- <a href="https://kfig21.github.io/battleship/" target="_blank" rel="noopener noreferrer">View the project here!</a>
+- Made for The Odin Project JavaScript curriculum
 - React based application
 
 <h3> Things I'm proud of: </h3>
