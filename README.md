@@ -9,7 +9,7 @@
 <h3>Features: </h3>
 
 - AI that seeks preferred targets when it gets adjacent hits.
-- AI is not confused by edge placement or ships placed next to each other
+- AI that is not confused by edge placement or ships placed next to each other
 - Responsive Design
 
 <h3>Demo GIF</h3>
