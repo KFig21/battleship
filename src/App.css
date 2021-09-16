@@ -193,6 +193,10 @@ header {
 @media only screen and (max-width: 600px) {
   .notification {
     margin-bottom: 0px;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .boards-container {
     flex-direction: column;
