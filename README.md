@@ -1,6 +1,5 @@
 # Battleship
 
-
 <p><a href="https://kfig21.github.io/battleship/" target="_blank" rel="noopener noreferrer">View the project here!</a> 👀</p>
 
 <h3>Summary</h3>
