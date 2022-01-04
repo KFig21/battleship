@@ -3,7 +3,13 @@
 <p><a href="https://kfig21.github.io/battleship/" target="_blank" rel="noopener noreferrer">View the project here!</a> 👀</p>
 
 <h3>Summary</h3>
-<p>This project was built for The Odin Project JavaScript curriculum. Place your ships vertical or horizontal to setup your board and begin selecting spaces on the computer's board to attack. When the computer lands an attack it will know which spaces to target next and it will not fooled by edge placement or ships being placed next to each other. This project was made with the React JS Library and CSS.</p>
+<p>This project was built for <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/battleship" target="_blank" rel="noopener noreferrer">The Odin Project's</a> JavaScript curriculum. Place your ships vertical or horizontal to setup your board and begin selecting spaces on the computer's board to attack. When the computer lands an attack it will know which spaces to target next and it will not fooled by edge placement or ships being placed next to each other. This project was made with the React JS Library and CSS.</p>
+
+ <h3>Technologies:</h3>
+  <ul>
+  <li>ReactJS</li>
+  <li>CSS</li>
+ </ul>
 
 <h3>Features: </h3>
 
